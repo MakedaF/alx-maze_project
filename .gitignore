@@ -1,0 +1,11 @@
+# Ignore object files
+*.0
+
+# Ignore editor backup files
+*~
+
+# Ignore compiled binary
+hello
+
+# Ignore source file
+hello.c
